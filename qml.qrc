@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Facebook.png</file>
+        <file>GPlus.png</file>
+        <file>Twitter.png</file>
+        <file>Youtube.png</file>
+    </qresource>
+</RCC>
